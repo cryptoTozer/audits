@@ -8,7 +8,7 @@ I am available for security consulting. Reach out to me on Twitter at [@cryptoTo
 
 ### Q2 2024
 
-2. BerryBlock - atomic swaps between ERC20 and ERC721 assets.
+2. [BerryBlock - atomic swaps between ERC20 and ERC721 assets.](https://github.com/cryptoTozer/audits/blob/main/reports/md/BerryBlock-Swaptor-security-review.md)
 
 ## Other
 
